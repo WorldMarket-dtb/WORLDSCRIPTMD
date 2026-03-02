@@ -1,6 +1,12 @@
 {
-  "allowedOwners": [],
+  "allowedOwners": [
+    "628138798132"
+  ],
   "version": 1,
-  "updatedAt": "2026-03-02T08:35:47.485Z",
-  "addedBy": {}
+  "updatedAt": "2026-03-02T08:36:37.558Z",
+  "addedBy": {
+    "998288226354": [
+      "628138798132"
+    ]
+  }
 }
