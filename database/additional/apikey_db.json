@@ -4,12 +4,12 @@
       "balance": 1000,
       "totalPurchased": 1000,
       "totalUsed": 0,
-      "updatedAt": "2026-07-25T11:42:18.357Z",
+      "updatedAt": "2026-07-25T11:42:35.530Z",
       "freeDate": "2026-07-25",
-      "freeUsed": 4,
+      "freeUsed": 5,
       "expiresAt": null
     }
   },
   "version": 1,
-  "updatedAt": "2026-07-25T11:42:18.357Z"
+  "updatedAt": "2026-07-25T11:42:35.530Z"
 }
