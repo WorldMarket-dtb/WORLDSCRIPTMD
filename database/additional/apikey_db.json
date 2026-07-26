@@ -154,13 +154,13 @@
       "updatedAt": "2026-07-25T19:25:32.161Z"
     },
     "6282318533094": {
-      "balance": 948,
+      "balance": 947,
       "totalPurchased": 1000,
-      "totalUsed": 52,
+      "totalUsed": 53,
       "expiresAt": "2026-08-25T04:32:56.957Z",
       "freeDate": "2026-07-26",
       "freeUsed": 25,
-      "updatedAt": "2026-07-26T09:08:43.034Z"
+      "updatedAt": "2026-07-26T09:09:08.557Z"
     },
     "6288298406196": {
       "balance": 0,
@@ -279,5 +279,5 @@
     }
   },
   "version": 1,
-  "updatedAt": "2026-07-26T09:08:43.034Z"
+  "updatedAt": "2026-07-26T09:09:08.557Z"
 }
