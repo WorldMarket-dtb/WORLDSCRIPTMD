@@ -1,0 +1,9 @@
+{
+  "enforce": true,
+  "version": 1,
+  "latest_version": "6.0.9",
+  "min_allowed_version": "6.0.9",
+  "grace_days": 3,
+  "exceptions": [],
+  "updatedAt": "2026-07-29T21:36:56.571Z"
+}
