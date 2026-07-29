@@ -602,11 +602,11 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "expiresAt": null,
-      "freeDate": "2026-07-29",
-      "freeUsed": 4,
-      "updatedAt": "2026-07-29T16:31:50.775Z"
+      "freeDate": "2026-07-30",
+      "freeUsed": 1,
+      "updatedAt": "2026-07-29T21:36:04.129Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-07-29T21:27:08.694Z"
+  "updatedAt": "2026-07-29T21:36:04.129Z"
 }
