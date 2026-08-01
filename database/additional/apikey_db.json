@@ -674,11 +674,11 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "expiresAt": null,
-      "freeDate": "2026-07-31",
-      "freeUsed": 2,
-      "updatedAt": "2026-07-31T14:06:51.159Z"
+      "freeDate": "2026-08-01",
+      "freeUsed": 1,
+      "updatedAt": "2026-08-01T03:21:58.331Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-01T02:53:14.900Z"
+  "updatedAt": "2026-08-01T03:21:58.331Z"
 }
