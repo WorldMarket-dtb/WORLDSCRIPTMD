@@ -497,8 +497,8 @@
       "totalUsed": 0,
       "expiresAt": null,
       "freeDate": "2026-08-02",
-      "freeUsed": 1,
-      "updatedAt": "2026-08-02T07:08:36.213Z"
+      "freeUsed": 2,
+      "updatedAt": "2026-08-02T08:29:00.056Z"
     },
     "62882000240705": {
       "balance": 0,
@@ -689,5 +689,5 @@
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-02T08:17:29.605Z"
+  "updatedAt": "2026-08-02T08:29:00.056Z"
 }
