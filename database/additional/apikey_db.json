@@ -746,11 +746,11 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "expiresAt": null,
-      "freeDate": "2026-08-03",
-      "freeUsed": 10,
-      "updatedAt": "2026-08-03T14:35:34.423Z"
+      "freeDate": "2026-08-04",
+      "freeUsed": 1,
+      "updatedAt": "2026-08-04T03:26:08.998Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-04T03:21:23.130Z"
+  "updatedAt": "2026-08-04T03:26:08.998Z"
 }
