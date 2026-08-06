@@ -823,15 +823,15 @@
       "updatedAt": "2026-08-06T15:09:27.077Z"
     },
     "6285215588207": {
-      "balance": 980,
+      "balance": 979,
       "totalPurchased": 1000,
-      "totalUsed": 20,
+      "totalUsed": 21,
       "expiresAt": "2026-09-05T16:15:42.138Z",
       "freeDate": "2026-08-06",
       "freeUsed": 25,
-      "updatedAt": "2026-08-06T16:35:37.404Z"
+      "updatedAt": "2026-08-06T16:38:23.095Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-06T16:35:37.404Z"
+  "updatedAt": "2026-08-06T16:38:23.096Z"
 }
