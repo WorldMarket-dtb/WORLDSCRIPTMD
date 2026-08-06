@@ -809,9 +809,11 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "expiresAt": "2026-09-01T11:00:30.555Z",
-      "updatedAt": "2026-08-06T09:48:12.832Z"
+      "updatedAt": "2026-08-06T12:44:30.499Z",
+      "freeDate": "2026-08-06",
+      "freeUsed": 1
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-06T12:36:41.970Z"
+  "updatedAt": "2026-08-06T12:44:30.500Z"
 }
