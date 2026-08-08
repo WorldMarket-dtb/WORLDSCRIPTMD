@@ -890,11 +890,11 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "expiresAt": "2026-09-01T05:40:04.786Z",
-      "updatedAt": "2026-08-08T13:04:12.399Z",
+      "updatedAt": "2026-08-08T13:04:32.279Z",
       "freeDate": "2026-08-08",
-      "freeUsed": 2
+      "freeUsed": 3
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-08T13:04:12.399Z"
+  "updatedAt": "2026-08-08T13:04:32.279Z"
 }
