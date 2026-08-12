@@ -1034,11 +1034,11 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "expiresAt": null,
-      "freeDate": "2026-08-11",
-      "freeUsed": 25,
-      "updatedAt": "2026-08-11T14:36:16.316Z"
+      "freeDate": "2026-08-12",
+      "freeUsed": 1,
+      "updatedAt": "2026-08-12T02:20:57.220Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-12T01:32:26.840Z"
+  "updatedAt": "2026-08-12T02:20:57.220Z"
 }
