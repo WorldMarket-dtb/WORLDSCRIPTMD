@@ -888,9 +888,9 @@
     "6285122318152": {
       "balance": 0,
       "totalPurchased": 0,
-      "totalUsed": 35,
+      "totalUsed": 36,
       "expiresAt": null,
-      "updatedAt": "2026-08-15T07:22:57.332Z",
+      "updatedAt": "2026-08-15T07:23:14.387Z",
       "freeDate": "2026-08-15",
       "freeUsed": 25
     },
@@ -1232,5 +1232,5 @@
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-15T07:22:57.332Z"
+  "updatedAt": "2026-08-15T07:23:14.387Z"
 }
