@@ -1348,11 +1348,11 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "expiresAt": null,
-      "freeDate": "2026-08-17",
-      "freeUsed": 2,
-      "updatedAt": "2026-08-17T12:52:19.162Z"
+      "freeDate": "2026-08-18",
+      "freeUsed": 1,
+      "updatedAt": "2026-08-18T01:06:12.164Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-18T01:00:57.934Z"
+  "updatedAt": "2026-08-18T01:06:12.164Z"
 }
