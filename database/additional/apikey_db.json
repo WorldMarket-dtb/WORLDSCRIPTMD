@@ -1402,11 +1402,11 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "expiresAt": "2026-09-11T10:49:48.664Z",
-      "updatedAt": "2026-08-19T11:27:40.151Z",
+      "updatedAt": "2026-08-19T11:28:01.571Z",
       "freeDate": "2026-08-19",
-      "freeUsed": 2
+      "freeUsed": 4
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-19T11:27:40.151Z"
+  "updatedAt": "2026-08-19T11:28:01.571Z"
 }
