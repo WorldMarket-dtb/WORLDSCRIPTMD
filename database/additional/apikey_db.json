@@ -1519,11 +1519,11 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "expiresAt": null,
-      "freeDate": "2026-08-21",
-      "freeUsed": 15,
-      "updatedAt": "2026-08-21T16:44:40.157Z"
+      "freeDate": "2026-08-22",
+      "freeUsed": 1,
+      "updatedAt": "2026-08-21T17:03:42.961Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-21T16:45:19.840Z"
+  "updatedAt": "2026-08-21T17:03:42.961Z"
 }
