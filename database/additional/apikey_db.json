@@ -46,10 +46,10 @@
       "updatedAt": "2026-07-27T11:24:35.648Z"
     },
     "6287899264970": {
-      "balance": 951,
+      "balance": 0,
       "totalPurchased": 1000,
       "totalUsed": 49,
-      "expiresAt": "2026-08-26T09:49:01.417Z",
+      "expiresAt": null,
       "freeDate": "2026-08-17",
       "freeUsed": 1,
       "updatedAt": "2026-08-17T05:29:33.464Z"
@@ -269,10 +269,10 @@
       "updatedAt": "2026-08-10T12:28:05.681Z"
     },
     "6283190131524": {
-      "balance": 998,
+      "balance": 0,
       "totalPurchased": 1000,
       "totalUsed": 2,
-      "expiresAt": "2026-08-25T21:49:59.073Z",
+      "expiresAt": null,
       "freeDate": "2026-08-20",
       "freeUsed": 13,
       "updatedAt": "2026-08-20T08:38:29.695Z"
@@ -321,10 +321,10 @@
       "updatedAt": "2026-07-26T11:58:06.488Z"
     },
     "62881036934533": {
-      "balance": 929,
+      "balance": 0,
       "totalPurchased": 1000,
       "totalUsed": 71,
-      "expiresAt": "2026-08-26T12:07:08.908Z",
+      "expiresAt": null,
       "freeDate": "2026-07-29",
       "freeUsed": 11,
       "updatedAt": "2026-07-29T13:18:19.964Z"
@@ -438,10 +438,10 @@
       "updatedAt": "2026-07-27T14:31:45.877Z"
     },
     "6285187461657": {
-      "balance": 791,
+      "balance": 0,
       "totalPurchased": 1000,
       "totalUsed": 209,
-      "expiresAt": "2026-08-26T14:59:05.971Z",
+      "expiresAt": null,
       "updatedAt": "2026-08-03T16:22:42.507Z",
       "freeDate": "2026-08-03",
       "freeUsed": 25
@@ -814,13 +814,13 @@
       "freeUsed": 1
     },
     "6282118507430": {
-      "balance": 0,
-      "totalPurchased": 0,
+      "balance": 1000,
+      "totalPurchased": 1000,
       "totalUsed": 0,
-      "expiresAt": null,
+      "expiresAt": "2026-09-25T20:25:57.712Z",
       "freeDate": "2026-08-27",
       "freeUsed": 5,
-      "updatedAt": "2026-08-26T19:50:56.342Z"
+      "updatedAt": "2026-08-26T20:25:57.712Z"
     },
     "6285215588207": {
       "balance": 704,
@@ -1739,5 +1739,5 @@
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-26T19:50:56.342Z"
+  "updatedAt": "2026-08-26T20:25:57.712Z"
 }
