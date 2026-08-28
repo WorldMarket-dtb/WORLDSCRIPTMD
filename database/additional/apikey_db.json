@@ -1813,8 +1813,17 @@
       "totalUsed": 0,
       "expiresAt": "2026-09-12T12:53:05.887Z",
       "updatedAt": "2026-08-28T13:33:40.858Z"
+    },
+    "6285752865150": {
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "expiresAt": null,
+      "freeDate": "2026-08-28",
+      "freeUsed": 1,
+      "updatedAt": "2026-08-28T14:05:13.431Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-28T13:40:29.593Z"
+  "updatedAt": "2026-08-28T14:05:13.431Z"
 }
