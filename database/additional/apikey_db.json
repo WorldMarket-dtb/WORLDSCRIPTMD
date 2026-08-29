@@ -1873,11 +1873,11 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "expiresAt": null,
-      "freeDate": "2026-08-29",
-      "freeUsed": 3,
-      "updatedAt": "2026-08-29T13:35:00.577Z"
+      "freeDate": "2026-08-30",
+      "freeUsed": 1,
+      "updatedAt": "2026-08-29T22:39:04.277Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-29T22:13:07.651Z"
+  "updatedAt": "2026-08-29T22:39:04.277Z"
 }
