@@ -1990,11 +1990,11 @@
       "totalPurchased": 1000,
       "totalUsed": 4,
       "expiresAt": "2026-10-03T15:38:39.292Z",
-      "freeDate": "2026-09-03",
-      "freeUsed": 25,
-      "updatedAt": "2026-09-03T16:30:32.260Z"
+      "freeDate": "2026-09-04",
+      "freeUsed": 1,
+      "updatedAt": "2026-09-03T17:57:30.445Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-09-03T17:55:36.134Z"
+  "updatedAt": "2026-09-03T17:57:30.445Z"
 }
