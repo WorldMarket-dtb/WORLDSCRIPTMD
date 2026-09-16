@@ -1792,10 +1792,10 @@
       "updatedAt": "2026-09-06T09:54:42.982Z"
     },
     "6287828544525": {
-      "balance": 1000,
+      "balance": 0,
       "totalPurchased": 0,
       "totalUsed": 0,
-      "expiresAt": "2026-09-15T08:46:04.476Z",
+      "expiresAt": null,
       "freeDate": "2026-08-30",
       "freeUsed": 1,
       "updatedAt": "2026-08-30T03:33:58.823Z"
@@ -1808,11 +1808,11 @@
       "updatedAt": "2026-08-28T13:33:40.858Z"
     },
     "6285133158156": {
-      "balance": 712,
+      "balance": 0,
       "totalPurchased": 1000,
       "totalUsed": 1019,
-      "expiresAt": "2026-10-11T11:56:02.006Z",
-      "updatedAt": "2026-09-15T15:48:43.844Z",
+      "expiresAt": null,
+      "updatedAt": "2026-09-16T05:43:08.171Z",
       "freeDate": "2026-09-15",
       "freeUsed": 25
     },
@@ -2200,8 +2200,15 @@
       "freeDate": "2026-09-16",
       "freeUsed": 2,
       "updatedAt": "2026-09-16T00:31:12.237Z"
+    },
+    "6285134442520": {
+      "balance": 712,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "expiresAt": "2026-10-11T11:56:02.006Z",
+      "updatedAt": "2026-09-16T05:43:08.171Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-09-16T05:42:21.423Z"
+  "updatedAt": "2026-09-16T05:43:08.171Z"
 }
