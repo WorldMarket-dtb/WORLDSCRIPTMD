@@ -2206,11 +2206,11 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "expiresAt": "2026-10-11T11:56:02.006Z",
-      "updatedAt": "2026-09-16T06:50:48.468Z",
+      "updatedAt": "2026-09-16T06:58:28.839Z",
       "freeDate": "2026-09-16",
-      "freeUsed": 2
+      "freeUsed": 3
     }
   },
   "version": 1,
-  "updatedAt": "2026-09-16T06:50:48.468Z"
+  "updatedAt": "2026-09-16T06:58:28.839Z"
 }
