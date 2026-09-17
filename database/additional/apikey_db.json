@@ -2233,11 +2233,11 @@
       "totalPurchased": 1000,
       "totalUsed": 18,
       "expiresAt": "2026-10-17T12:32:51.280Z",
-      "freeDate": "2026-09-17",
-      "freeUsed": 25,
-      "updatedAt": "2026-09-17T16:22:49.216Z"
+      "freeDate": "2026-09-18",
+      "freeUsed": 1,
+      "updatedAt": "2026-09-17T22:38:56.614Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-09-17T22:16:03.521Z"
+  "updatedAt": "2026-09-17T22:38:56.614Z"
 }
