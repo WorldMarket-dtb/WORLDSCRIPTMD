@@ -2263,8 +2263,17 @@
       "freeDate": "2026-09-19",
       "freeUsed": 1,
       "updatedAt": "2026-09-19T04:57:00.507Z"
+    },
+    "6289527857264": {
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "expiresAt": null,
+      "freeDate": "2026-09-19",
+      "freeUsed": 8,
+      "updatedAt": "2026-09-19T04:57:52.315Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-09-19T04:57:00.507Z"
+  "updatedAt": "2026-09-19T04:57:52.315Z"
 }
