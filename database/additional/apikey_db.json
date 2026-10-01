@@ -1344,19 +1344,19 @@
       "updatedAt": "2026-08-17T14:36:10.770Z"
     },
     "6289530694225": {
-      "balance": 1000,
+      "balance": 0,
       "totalPurchased": 1000,
       "totalUsed": 0,
-      "expiresAt": "2026-09-24T14:14:12.420Z",
+      "expiresAt": null,
       "freeDate": "2026-08-18",
       "freeUsed": 11,
       "updatedAt": "2026-08-25T14:14:12.420Z"
     },
     "6289665516000": {
-      "balance": 834,
+      "balance": 0,
       "totalPurchased": 0,
       "totalUsed": 5,
-      "expiresAt": "2026-09-25T20:25:57.712Z",
+      "expiresAt": null,
       "updatedAt": "2026-09-07T23:20:55.357Z",
       "freeDate": "2026-09-08",
       "freeUsed": 1
@@ -1756,10 +1756,10 @@
       "updatedAt": "2026-09-21T06:20:15.675Z"
     },
     "6282313985031": {
-      "balance": 1000,
+      "balance": 0,
       "totalPurchased": 1000,
       "totalUsed": 0,
-      "expiresAt": "2026-09-28T03:27:20.956Z",
+      "expiresAt": null,
       "freeDate": "2026-08-28",
       "freeUsed": 25,
       "updatedAt": "2026-08-29T03:27:20.956Z"
@@ -1835,10 +1835,10 @@
       "updatedAt": "2026-08-28T14:43:41.126Z"
     },
     "6285846266137": {
-      "balance": 1000,
+      "balance": 0,
       "totalPurchased": 1000,
       "totalUsed": 0,
-      "expiresAt": "2026-09-28T03:27:05.047Z",
+      "expiresAt": null,
       "updatedAt": "2026-08-29T03:27:05.047Z"
     },
     "6285124952401": {
@@ -1860,10 +1860,10 @@
       "updatedAt": "2026-08-29T10:31:00.771Z"
     },
     "6283177218770": {
-      "balance": 135,
+      "balance": 0,
       "totalPurchased": 1000,
       "totalUsed": 865,
-      "expiresAt": "2026-09-30T12:07:22.658Z",
+      "expiresAt": null,
       "freeDate": "2026-09-19",
       "freeUsed": 13,
       "updatedAt": "2026-09-19T10:15:58.818Z"
@@ -2497,8 +2497,15 @@
       "freeDate": "2026-10-01",
       "freeUsed": 19,
       "updatedAt": "2026-10-01T11:48:32.554Z"
+    },
+    "62895429241798": {
+      "balance": 1000,
+      "totalPurchased": 1000,
+      "totalUsed": 0,
+      "expiresAt": "2026-10-31T11:52:35.170Z",
+      "updatedAt": "2026-10-01T11:52:35.170Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-10-01T11:49:56.907Z"
+  "updatedAt": "2026-10-01T11:52:35.170Z"
 }
