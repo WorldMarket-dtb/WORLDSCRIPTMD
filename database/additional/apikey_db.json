@@ -2519,11 +2519,11 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "expiresAt": null,
-      "freeDate": "2026-10-02",
-      "freeUsed": 15,
-      "updatedAt": "2026-10-02T11:53:09.383Z"
+      "freeDate": "2026-10-03",
+      "freeUsed": 1,
+      "updatedAt": "2026-10-02T22:02:34.170Z"
     }
   },
   "version": 1,
-  "updatedAt": "2026-10-02T15:28:38.835Z"
+  "updatedAt": "2026-10-02T22:02:34.170Z"
 }
