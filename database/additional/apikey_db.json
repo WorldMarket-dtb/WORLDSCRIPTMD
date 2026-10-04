@@ -75,9 +75,9 @@
       "totalPurchased": 1000,
       "totalUsed": 275,
       "expiresAt": null,
-      "freeDate": "2026-10-04",
-      "freeUsed": 22,
-      "updatedAt": "2026-10-04T15:25:34.292Z",
+      "freeDate": "2026-10-05",
+      "freeUsed": 1,
+      "updatedAt": "2026-10-04T17:56:25.959Z",
       "permanent": false
     },
     "6283169585993": {
@@ -2870,7 +2870,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-04T15:51:03.333Z",
+  "updatedAt": "2026-10-04T17:56:25.959Z",
   "tokens": {
     "worldmultidevice1": {
       "owner": "1869797810",
