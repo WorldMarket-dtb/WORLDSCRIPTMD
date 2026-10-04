@@ -2563,17 +2563,18 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-04T14:49:46.843Z",
+  "updatedAt": "2026-10-04T14:50:42.944Z",
   "tokens": {
-    "wm-5k3tfc": {
+    "worldmultidevice1": {
       "owner": "1869797810",
       "balance": 4890,
       "totalPurchased": 4890,
       "totalUsed": 0,
       "createdAt": "2026-10-04T14:49:46.843Z",
-      "updatedAt": "2026-10-04T14:49:46.843Z",
-      "name": "wm-5k3tfc",
-      "expiresAt": "2026-11-03T09:54:22.250Z"
+      "updatedAt": "2026-10-04T14:50:42.944Z",
+      "name": "worldmultidevice1",
+      "expiresAt": "2026-11-03T09:54:22.250Z",
+      "previousName": "wm-5k3tfc"
     }
   },
   "free": {}
