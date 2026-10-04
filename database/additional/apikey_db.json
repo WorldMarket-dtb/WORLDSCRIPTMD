@@ -2537,11 +2537,11 @@
       "totalPurchased": 5000,
       "totalUsed": 0,
       "expiresAt": "2026-11-03T09:54:22.250Z",
-      "updatedAt": "2026-10-04T10:37:21.478Z",
+      "updatedAt": "2026-10-04T10:39:31.939Z",
       "freeDate": "2026-10-04",
-      "freeUsed": 13
+      "freeUsed": 17
     }
   },
   "version": 1,
-  "updatedAt": "2026-10-04T10:38:19.415Z"
+  "updatedAt": "2026-10-04T10:39:31.939Z"
 }
