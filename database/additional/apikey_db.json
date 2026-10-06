@@ -2892,12 +2892,12 @@
       "totalUsed": 0,
       "expiresAt": null,
       "freeDate": "2026-10-06",
-      "freeUsed": 7,
-      "updatedAt": "2026-10-06T12:03:59.560Z"
+      "freeUsed": 8,
+      "updatedAt": "2026-10-06T12:04:36.658Z"
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-06T12:03:59.560Z",
+  "updatedAt": "2026-10-06T12:04:36.658Z",
   "tokens": {
     "worldmultidevice1": {
       "owner": "1869797810",
