@@ -2906,7 +2906,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-06T17:29:23.451Z",
+  "updatedAt": "2026-10-06T17:29:25.944Z",
   "tokens": {
     "worldmultidevice1": {
       "owner": "1869797810",
@@ -2926,7 +2926,7 @@
   "free": {
     "6285148181539": {
       "date": "2026-10-07",
-      "used": 23
+      "used": 25
     }
   },
   "migrations": {
