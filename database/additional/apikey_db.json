@@ -2875,7 +2875,8 @@
       "expiresAt": null,
       "freeDate": "2026-10-07",
       "freeUsed": 11,
-      "updatedAt": "2026-10-06T23:58:01.775Z"
+      "updatedAt": "2026-10-06T23:58:01.775Z",
+      "permanent": false
     },
     "6287847157262": {
       "balance": 0,
@@ -2884,7 +2885,8 @@
       "expiresAt": null,
       "freeDate": "2026-10-06",
       "freeUsed": 11,
-      "updatedAt": "2026-10-06T13:22:39.418Z"
+      "updatedAt": "2026-10-06T13:22:39.418Z",
+      "permanent": false
     },
     "6287762474613": {
       "balance": 0,
@@ -2893,7 +2895,8 @@
       "expiresAt": null,
       "freeDate": "2026-10-06",
       "freeUsed": 8,
-      "updatedAt": "2026-10-06T12:04:36.658Z"
+      "updatedAt": "2026-10-06T12:04:36.658Z",
+      "permanent": false
     },
     "62881025228951": {
       "balance": 0,
@@ -2902,7 +2905,8 @@
       "expiresAt": null,
       "freeDate": "2026-10-07",
       "freeUsed": 1,
-      "updatedAt": "2026-10-07T01:06:30.439Z"
+      "updatedAt": "2026-10-07T01:06:30.439Z",
+      "permanent": false
     },
     "6285857785783": {
       "balance": 0,
@@ -2911,22 +2915,23 @@
       "expiresAt": null,
       "freeDate": "2026-10-07",
       "freeUsed": 1,
-      "updatedAt": "2026-10-06T21:54:04.891Z"
+      "updatedAt": "2026-10-06T21:54:04.891Z",
+      "permanent": false
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-07T14:15:51.304Z",
+  "updatedAt": "2026-10-07T15:03:39.833Z",
   "tokens": {
-    "worldmultidevice1": {
+    "worldbwabwa1world": {
       "owner": "1869797810",
       "balance": 4880,
       "totalPurchased": 4890,
       "totalUsed": 10,
       "createdAt": "2026-10-04T14:49:46.843Z",
-      "updatedAt": "2026-10-07T06:04:21.443Z",
-      "name": "worldmultidevice1",
+      "updatedAt": "2026-10-07T15:03:39.833Z",
+      "name": "worldbwabwa1world",
       "expiresAt": null,
-      "previousName": "wm-5k3tfc",
+      "previousName": "worldmultidevice1",
       "permanent": true,
       "permanentSince": "2026-10-04T15:51:03.316Z",
       "previousExpiresAt": "2026-11-03T09:54:22.250Z"
