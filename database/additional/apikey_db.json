@@ -2643,16 +2643,18 @@
       "previousExpiresAt": "2026-10-16T19:39:19.254Z"
     },
     "6285725394787": {
-      "balance": 553,
+      "balance": 0,
       "totalPurchased": 0,
       "totalUsed": 2,
       "expiresAt": null,
-      "updatedAt": "2026-10-04T07:37:48.401Z",
+      "updatedAt": "2026-10-07T15:21:58.857Z",
       "freeDate": "2026-10-04",
       "freeUsed": 20,
-      "permanent": true,
+      "permanent": false,
       "permanentSince": "2026-10-04T15:51:03.316Z",
-      "previousExpiresAt": "2026-10-11T11:56:02.006Z"
+      "previousExpiresAt": "2026-10-11T11:56:02.006Z",
+      "claimedBy": "7962624217",
+      "claimedAt": "2026-10-07T15:21:58.857Z"
     },
     "6285138486183": {
       "balance": 0,
@@ -2920,7 +2922,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-07T15:03:39.833Z",
+  "updatedAt": "2026-10-07T15:21:58.857Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -2935,6 +2937,17 @@
       "permanent": true,
       "permanentSince": "2026-10-04T15:51:03.316Z",
       "previousExpiresAt": "2026-11-03T09:54:22.250Z"
+    },
+    "wm-7x7rdn": {
+      "owner": "7962624217",
+      "balance": 553,
+      "totalPurchased": 553,
+      "totalUsed": 0,
+      "createdAt": "2026-10-07T15:21:58.856Z",
+      "updatedAt": "2026-10-07T15:21:58.857Z",
+      "name": "wm-7x7rdn",
+      "expiresAt": null,
+      "permanent": true
     }
   },
   "free": {
