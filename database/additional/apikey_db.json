@@ -2932,7 +2932,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-08T14:37:04.434Z",
+  "updatedAt": "2026-10-08T14:38:38.769Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -2960,17 +2960,6 @@
       "permanent": true,
       "previousName": "wm-7x7rdn"
     },
-    "renzz": {
-      "owner": "8532261837",
-      "balance": 1000,
-      "totalPurchased": 1000,
-      "totalUsed": 0,
-      "createdAt": "2026-10-08T12:12:04.049Z",
-      "updatedAt": "2026-10-08T14:37:04.434Z",
-      "name": "renzz",
-      "expiresAt": "2026-12-07T14:37:04.434Z",
-      "permanent": false
-    },
     "novamultidevice01": {
       "owner": "7333580176",
       "balance": 1000,
@@ -2992,6 +2981,18 @@
       "name": "dezganteng_04",
       "expiresAt": "2026-12-07T14:21:12.210Z",
       "permanent": false
+    },
+    "renzz_md_jagoan_12": {
+      "owner": "8532261837",
+      "balance": 1000,
+      "totalPurchased": 1000,
+      "totalUsed": 0,
+      "createdAt": "2026-10-08T12:12:04.049Z",
+      "updatedAt": "2026-10-08T14:38:38.769Z",
+      "name": "renzz_md_jagoan_12",
+      "expiresAt": "2026-12-07T14:37:04.434Z",
+      "permanent": false,
+      "previousName": "renzz"
     }
   },
   "free": {
