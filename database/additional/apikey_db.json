@@ -2927,11 +2927,12 @@
       "expiresAt": null,
       "freeDate": "2026-10-08",
       "freeUsed": 4,
-      "updatedAt": "2026-10-08T11:08:17.731Z"
+      "updatedAt": "2026-10-08T11:08:17.731Z",
+      "permanent": false
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-08T11:55:52.309Z",
+  "updatedAt": "2026-10-08T12:12:04.049Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -2958,6 +2959,17 @@
       "expiresAt": null,
       "permanent": true,
       "previousName": "wm-7x7rdn"
+    },
+    "renzz": {
+      "owner": "8532261837",
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "createdAt": "2026-10-08T12:12:04.049Z",
+      "updatedAt": "2026-10-08T12:12:04.049Z",
+      "name": "renzz",
+      "expiresAt": null,
+      "permanent": false
     }
   },
   "free": {
