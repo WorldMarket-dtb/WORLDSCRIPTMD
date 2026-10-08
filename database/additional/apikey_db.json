@@ -2932,7 +2932,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-08T14:21:12.210Z",
+  "updatedAt": "2026-10-08T14:37:04.434Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -2962,13 +2962,13 @@
     },
     "renzz": {
       "owner": "8532261837",
-      "balance": 0,
-      "totalPurchased": 0,
+      "balance": 1000,
+      "totalPurchased": 1000,
       "totalUsed": 0,
       "createdAt": "2026-10-08T12:12:04.049Z",
-      "updatedAt": "2026-10-08T12:12:04.049Z",
+      "updatedAt": "2026-10-08T14:37:04.434Z",
       "name": "renzz",
-      "expiresAt": null,
+      "expiresAt": "2026-12-07T14:37:04.434Z",
       "permanent": false
     },
     "novamultidevice01": {
