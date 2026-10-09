@@ -2932,7 +2932,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-09T11:51:02.665Z",
+  "updatedAt": "2026-10-09T11:58:57.696Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3002,6 +3002,17 @@
       "createdAt": "2026-10-08T23:37:23.758Z",
       "updatedAt": "2026-10-08T23:37:23.758Z",
       "name": "ryuuft",
+      "expiresAt": null,
+      "permanent": false
+    },
+    "malzzbot": {
+      "owner": "8837710117",
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "createdAt": "2026-10-09T11:58:57.696Z",
+      "updatedAt": "2026-10-09T11:58:57.696Z",
+      "name": "malzzbot",
       "expiresAt": null,
       "permanent": false
     }
