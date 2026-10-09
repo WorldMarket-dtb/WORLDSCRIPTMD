@@ -2934,7 +2934,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-09T12:31:55.544Z",
+  "updatedAt": "2026-10-09T12:35:45.706Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3028,6 +3028,17 @@
       "name": "wm-wqhgdx",
       "expiresAt": null,
       "permanent": true
+    },
+    "zuann_xd": {
+      "owner": "8563133701",
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "createdAt": "2026-10-09T12:35:45.706Z",
+      "updatedAt": "2026-10-09T12:35:45.706Z",
+      "name": "zuann_xd",
+      "expiresAt": null,
+      "permanent": false
     }
   },
   "free": {
