@@ -2936,7 +2936,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-09T15:13:39.079Z",
+  "updatedAt": "2026-10-09T15:17:55.917Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3011,11 +3011,11 @@
     },
     "malzzbot": {
       "owner": "8837710117",
-      "balance": 1910,
+      "balance": 1900,
       "totalPurchased": 2000,
-      "totalUsed": 90,
+      "totalUsed": 100,
       "createdAt": "2026-10-09T11:58:57.696Z",
-      "updatedAt": "2026-10-09T15:13:39.079Z",
+      "updatedAt": "2026-10-09T15:17:55.917Z",
       "name": "malzzbot",
       "expiresAt": "2026-12-08T12:13:04.909Z",
       "permanent": false
