@@ -2789,16 +2789,18 @@
       "permanent": false
     },
     "6283121472289": {
-      "balance": 865,
+      "balance": 0,
       "totalPurchased": 1000,
       "totalUsed": 135,
       "expiresAt": null,
       "freeDate": "2026-10-06",
       "freeUsed": 3,
-      "updatedAt": "2026-10-06T14:17:21.283Z",
-      "permanent": true,
+      "updatedAt": "2026-10-09T13:00:01.197Z",
+      "permanent": false,
       "permanentSince": "2026-10-04T15:51:03.316Z",
-      "previousExpiresAt": "2026-10-31T11:53:03.583Z"
+      "previousExpiresAt": "2026-10-31T11:53:03.583Z",
+      "claimedBy": "1881875530",
+      "claimedAt": "2026-10-09T13:00:01.197Z"
     },
     "62895429241798": {
       "balance": 1000,
@@ -2934,7 +2936,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-09T12:59:19.111Z",
+  "updatedAt": "2026-10-09T13:00:01.197Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3039,6 +3041,17 @@
       "name": "zuann_xd",
       "expiresAt": "2026-12-08T12:36:33.571Z",
       "permanent": false
+    },
+    "wm-gp7kx9": {
+      "owner": "1881875530",
+      "balance": 865,
+      "totalPurchased": 865,
+      "totalUsed": 0,
+      "createdAt": "2026-10-09T13:00:01.196Z",
+      "updatedAt": "2026-10-09T13:00:01.197Z",
+      "name": "wm-gp7kx9",
+      "expiresAt": null,
+      "permanent": true
     }
   },
   "free": {
