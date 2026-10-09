@@ -2467,16 +2467,18 @@
       "permanent": false
     },
     "6283192266320": {
-      "balance": 861,
+      "balance": 0,
       "totalPurchased": 0,
       "totalUsed": 5,
       "expiresAt": null,
       "freeDate": "2026-09-16",
       "freeUsed": 25,
-      "updatedAt": "2026-09-16T14:03:40.199Z",
-      "permanent": true,
+      "updatedAt": "2026-10-09T12:11:19.862Z",
+      "permanent": false,
       "permanentSince": "2026-10-04T15:51:03.316Z",
-      "previousExpiresAt": "2026-10-14T13:28:21.872Z"
+      "previousExpiresAt": "2026-10-14T13:28:21.872Z",
+      "claimedBy": "6459182857",
+      "claimedAt": "2026-10-09T12:11:19.862Z"
     },
     "6285217132500": {
       "balance": 0,
@@ -2932,7 +2934,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-09T11:58:57.696Z",
+  "updatedAt": "2026-10-09T12:11:19.862Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3015,6 +3017,17 @@
       "name": "malzzbot",
       "expiresAt": null,
       "permanent": false
+    },
+    "wm-wqhgdx": {
+      "owner": "6459182857",
+      "balance": 861,
+      "totalPurchased": 861,
+      "totalUsed": 0,
+      "createdAt": "2026-10-09T12:11:19.861Z",
+      "updatedAt": "2026-10-09T12:11:19.862Z",
+      "name": "wm-wqhgdx",
+      "expiresAt": null,
+      "permanent": true
     }
   },
   "free": {
