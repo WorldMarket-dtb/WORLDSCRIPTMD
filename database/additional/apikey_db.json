@@ -2936,7 +2936,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-10T03:45:38.342Z",
+  "updatedAt": "2026-10-10T03:45:51.957Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -2970,7 +2970,7 @@
       "totalPurchased": 1000,
       "totalUsed": 0,
       "createdAt": "2026-10-08T13:10:38.551Z",
-      "updatedAt": "2026-10-10T03:45:38.342Z",
+      "updatedAt": "2026-10-10T03:45:51.957Z",
       "name": "novamultidevice01",
       "expiresAt": "2026-12-07T13:16:20.751Z",
       "permanent": false
@@ -3101,7 +3101,7 @@
     },
     "6285857785783": {
       "date": "2026-10-10",
-      "used": 2
+      "used": 3
     },
     "6283121472289": {
       "date": "2026-10-10",
