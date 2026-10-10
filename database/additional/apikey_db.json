@@ -2929,14 +2929,14 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "expiresAt": null,
-      "freeDate": "2026-10-08",
-      "freeUsed": 4,
-      "updatedAt": "2026-10-08T11:08:17.731Z",
+      "freeDate": "2026-10-10",
+      "freeUsed": 1,
+      "updatedAt": "2026-10-10T13:42:47.197Z",
       "permanent": false
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-10T13:22:11.387Z",
+  "updatedAt": "2026-10-10T13:42:47.197Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
