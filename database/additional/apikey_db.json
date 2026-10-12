@@ -2945,7 +2945,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-12T11:11:54.961Z",
+  "updatedAt": "2026-10-12T11:11:59.427Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3046,7 +3046,7 @@
       "totalPurchased": 1000,
       "totalUsed": 0,
       "createdAt": "2026-10-09T12:35:45.706Z",
-      "updatedAt": "2026-10-12T11:11:54.961Z",
+      "updatedAt": "2026-10-12T11:11:59.427Z",
       "name": "zuann_xd",
       "expiresAt": "2026-12-08T12:36:33.571Z",
       "permanent": false
@@ -3130,7 +3130,7 @@
     },
     "6288324636442": {
       "date": "2026-10-12",
-      "used": 16
+      "used": 17
     },
     "6285257604790": {
       "date": "2026-10-12",
