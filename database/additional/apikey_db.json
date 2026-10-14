@@ -2941,11 +2941,12 @@
       "expiresAt": null,
       "freeDate": "2026-10-13",
       "freeUsed": 1,
-      "updatedAt": "2026-10-13T09:46:07.814Z"
+      "updatedAt": "2026-10-13T09:46:07.814Z",
+      "permanent": false
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-14T15:48:51.400Z",
+  "updatedAt": "2026-10-14T16:24:26.733Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3061,6 +3062,17 @@
       "name": "wm-gp7kx9",
       "expiresAt": null,
       "permanent": true
+    },
+    "desta": {
+      "owner": "8987171236",
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "createdAt": "2026-10-14T16:24:26.732Z",
+      "updatedAt": "2026-10-14T16:24:26.732Z",
+      "name": "desta",
+      "expiresAt": null,
+      "permanent": false
     }
   },
   "free": {
