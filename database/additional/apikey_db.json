@@ -2946,7 +2946,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-15T08:50:01.236Z",
+  "updatedAt": "2026-10-15T08:57:00.907Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3082,6 +3082,17 @@
       "createdAt": "2026-10-15T06:53:31.360Z",
       "updatedAt": "2026-10-15T06:53:31.360Z",
       "name": "phyrine_botz",
+      "expiresAt": null,
+      "permanent": false
+    },
+    "raxiel_store": {
+      "owner": "7912003477",
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "createdAt": "2026-10-15T08:57:00.907Z",
+      "updatedAt": "2026-10-15T08:57:00.907Z",
+      "name": "raxiel_store",
       "expiresAt": null,
       "permanent": false
     }
