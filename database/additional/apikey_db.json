@@ -2946,7 +2946,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-15T05:55:23.212Z",
+  "updatedAt": "2026-10-15T06:53:31.361Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3071,6 +3071,17 @@
       "createdAt": "2026-10-14T16:24:26.732Z",
       "updatedAt": "2026-10-14T16:24:26.732Z",
       "name": "desta",
+      "expiresAt": null,
+      "permanent": false
+    },
+    "phyrine_botz": {
+      "owner": "6527610418",
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "createdAt": "2026-10-15T06:53:31.360Z",
+      "updatedAt": "2026-10-15T06:53:31.360Z",
+      "name": "phyrine_botz",
       "expiresAt": null,
       "permanent": false
     }
