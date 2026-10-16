@@ -2930,8 +2930,8 @@
       "totalUsed": 0,
       "expiresAt": null,
       "freeDate": "2026-10-16",
-      "freeUsed": 6,
-      "updatedAt": "2026-10-16T11:40:59.536Z",
+      "freeUsed": 7,
+      "updatedAt": "2026-10-16T11:41:12.651Z",
       "permanent": false
     },
     "6283187520074": {
@@ -2946,7 +2946,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-16T11:40:59.536Z",
+  "updatedAt": "2026-10-16T11:41:12.651Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
