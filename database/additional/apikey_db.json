@@ -2946,7 +2946,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-17T04:18:39.540Z",
+  "updatedAt": "2026-10-17T04:20:04.707Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -2991,7 +2991,7 @@
       "totalPurchased": 1000,
       "totalUsed": 15,
       "createdAt": "2026-10-08T14:18:57.340Z",
-      "updatedAt": "2026-10-17T00:05:08.354Z",
+      "updatedAt": "2026-10-17T04:20:04.707Z",
       "name": "dezganteng_04",
       "expiresAt": "2026-12-07T14:21:12.210Z",
       "permanent": false
@@ -3116,7 +3116,7 @@
     },
     "6282146411080": {
       "date": "2026-10-17",
-      "used": 1
+      "used": 2
     },
     "6289527857264": {
       "date": "2026-10-10",
