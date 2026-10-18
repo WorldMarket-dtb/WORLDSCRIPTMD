@@ -2946,7 +2946,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-18T04:30:28.648Z",
+  "updatedAt": "2026-10-18T04:31:36.421Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -2964,11 +2964,11 @@
     },
     "yatzmarketvip": {
       "owner": "7962624217",
-      "balance": 118,
+      "balance": 113,
       "totalPurchased": 553,
-      "totalUsed": 435,
+      "totalUsed": 440,
       "createdAt": "2026-10-07T15:21:58.856Z",
-      "updatedAt": "2026-10-18T04:30:28.648Z",
+      "updatedAt": "2026-10-18T04:31:36.421Z",
       "name": "yatzmarketvip",
       "expiresAt": null,
       "permanent": true,
