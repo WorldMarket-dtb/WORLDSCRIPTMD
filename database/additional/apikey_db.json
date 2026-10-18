@@ -2946,7 +2946,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-18T14:20:53.924Z",
+  "updatedAt": "2026-10-18T14:24:51.667Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3129,16 +3129,17 @@
       "expiresAt": null,
       "permanent": false
     },
-    "tokenputraaa": {
+    "tokenbowok": {
       "owner": "8522635026",
       "balance": 0,
       "totalPurchased": 0,
       "totalUsed": 0,
       "createdAt": "2026-10-18T14:20:53.924Z",
-      "updatedAt": "2026-10-18T14:20:53.924Z",
-      "name": "tokenputraaa",
+      "updatedAt": "2026-10-18T14:24:51.667Z",
+      "name": "tokenbowok",
       "expiresAt": null,
-      "permanent": false
+      "permanent": false,
+      "previousName": "tokenputraaa"
     }
   },
   "free": {
