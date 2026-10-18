@@ -2946,7 +2946,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-18T14:14:24.002Z",
+  "updatedAt": "2026-10-18T14:20:53.924Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3126,6 +3126,17 @@
       "createdAt": "2026-10-18T13:23:36.994Z",
       "updatedAt": "2026-10-18T13:23:36.994Z",
       "name": "raaaa2210",
+      "expiresAt": null,
+      "permanent": false
+    },
+    "tokenputraaa": {
+      "owner": "8522635026",
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "createdAt": "2026-10-18T14:20:53.924Z",
+      "updatedAt": "2026-10-18T14:20:53.924Z",
+      "name": "tokenputraaa",
       "expiresAt": null,
       "permanent": false
     }
