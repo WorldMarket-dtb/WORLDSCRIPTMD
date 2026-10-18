@@ -2946,7 +2946,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-18T12:55:59.204Z",
+  "updatedAt": "2026-10-18T12:59:05.629Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3109,11 +3109,11 @@
     },
     "fall": {
       "owner": "8635758868",
-      "balance": 945,
+      "balance": 940,
       "totalPurchased": 1000,
-      "totalUsed": 55,
+      "totalUsed": 60,
       "createdAt": "2026-10-18T10:49:11.395Z",
-      "updatedAt": "2026-10-18T12:50:04.851Z",
+      "updatedAt": "2026-10-18T12:59:05.629Z",
       "name": "fall",
       "expiresAt": "2026-12-17T10:50:57.777Z",
       "permanent": false
