@@ -2951,11 +2951,12 @@
       "expiresAt": null,
       "freeDate": "2026-10-18",
       "freeUsed": 8,
-      "updatedAt": "2026-10-18T15:26:24.531Z"
+      "updatedAt": "2026-10-18T15:26:24.531Z",
+      "permanent": false
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-19T06:45:36.512Z",
+  "updatedAt": "2026-10-19T06:45:43.178Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3118,13 +3119,13 @@
     },
     "fall": {
       "owner": "8635758868",
-      "balance": 880,
-      "totalPurchased": 1000,
+      "balance": 2880,
+      "totalPurchased": 3000,
       "totalUsed": 120,
       "createdAt": "2026-10-18T10:49:11.395Z",
-      "updatedAt": "2026-10-19T03:19:18.733Z",
+      "updatedAt": "2026-10-19T06:45:43.178Z",
       "name": "fall",
-      "expiresAt": "2026-12-17T10:50:57.777Z",
+      "expiresAt": "2026-12-18T06:45:43.178Z",
       "permanent": false
     },
     "raaaa2210": {
