@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-19T13:00:49.803Z",
+  "updatedAt": "2026-10-19T13:03:16.217Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3141,11 +3141,11 @@
     },
     "tokenbowok": {
       "owner": "8522635026",
-      "balance": 1830,
+      "balance": 1820,
       "totalPurchased": 2000,
-      "totalUsed": 170,
+      "totalUsed": 180,
       "createdAt": "2026-10-18T14:20:53.924Z",
-      "updatedAt": "2026-10-19T12:59:54.856Z",
+      "updatedAt": "2026-10-19T13:03:16.217Z",
       "name": "tokenbowok",
       "expiresAt": "2026-12-17T14:28:02.841Z",
       "permanent": false,
