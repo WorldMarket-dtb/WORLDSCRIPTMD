@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-20T00:02:53.413Z",
+  "updatedAt": "2026-10-20T00:05:50.537Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3150,6 +3150,17 @@
       "expiresAt": "2026-12-17T14:28:02.841Z",
       "permanent": false,
       "previousName": "tokenputraaa"
+    },
+    "brillian_": {
+      "owner": "6321028349",
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "createdAt": "2026-10-20T00:05:50.537Z",
+      "updatedAt": "2026-10-20T00:05:50.537Z",
+      "name": "brillian_",
+      "expiresAt": null,
+      "permanent": false
     }
   },
   "free": {
