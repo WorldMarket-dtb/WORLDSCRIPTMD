@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-21T12:50:28.799Z",
+  "updatedAt": "2026-10-21T13:07:41.346Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3164,13 +3164,13 @@
     },
     "apikey_bot_gloo": {
       "owner": "8742371385",
-      "balance": 0,
-      "totalPurchased": 0,
+      "balance": 2000,
+      "totalPurchased": 2000,
       "totalUsed": 0,
       "createdAt": "2026-10-21T12:29:42.497Z",
-      "updatedAt": "2026-10-21T12:29:42.497Z",
+      "updatedAt": "2026-10-21T13:07:41.346Z",
       "name": "apikey_bot_gloo",
-      "expiresAt": null,
+      "expiresAt": "2026-12-20T13:07:41.346Z",
       "permanent": false
     }
   },
