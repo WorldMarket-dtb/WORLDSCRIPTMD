@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-21T21:47:30.295Z",
+  "updatedAt": "2026-10-21T21:48:40.169Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3357,7 +3357,7 @@
     },
     "6285141614669": {
       "date": "2026-10-22",
-      "used": 2
+      "used": 3
     }
   },
   "migrations": {
