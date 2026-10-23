@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-23T12:48:31.885Z",
+  "updatedAt": "2026-10-23T12:49:11.079Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3086,11 +3086,11 @@
     },
     "phyrine_botz": {
       "owner": "6527610418",
-      "balance": 1710,
+      "balance": 1690,
       "totalPurchased": 2000,
-      "totalUsed": 290,
+      "totalUsed": 310,
       "createdAt": "2026-10-15T06:53:31.360Z",
-      "updatedAt": "2026-10-23T11:26:53.611Z",
+      "updatedAt": "2026-10-23T12:49:11.079Z",
       "name": "phyrine_botz",
       "expiresAt": "2026-12-18T08:09:40.119Z",
       "permanent": false
