@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-24T14:32:47.098Z",
+  "updatedAt": "2026-10-24T14:37:17.785Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3096,11 +3096,11 @@
     },
     "kyanzzoffc": {
       "owner": "7742261175",
-      "balance": 9965,
+      "balance": 9955,
       "totalPurchased": 11000,
-      "totalUsed": 1035,
+      "totalUsed": 1045,
       "createdAt": "2026-10-18T02:20:23.987Z",
-      "updatedAt": "2026-10-24T14:32:47.098Z",
+      "updatedAt": "2026-10-24T14:37:17.785Z",
       "name": "kyanzzoffc",
       "expiresAt": "2026-12-23T14:07:44.638Z",
       "permanent": false
