@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-24T06:24:37.781Z",
+  "updatedAt": "2026-10-24T06:28:20.080Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -2971,18 +2971,6 @@
       "permanent": true,
       "permanentSince": "2026-10-04T15:51:03.316Z",
       "previousExpiresAt": "2026-11-03T09:54:22.250Z"
-    },
-    "yatzmarketvip": {
-      "owner": "7962624217",
-      "balance": 3,
-      "totalPurchased": 553,
-      "totalUsed": 550,
-      "createdAt": "2026-10-07T15:21:58.856Z",
-      "updatedAt": "2026-10-18T13:52:05.320Z",
-      "name": "yatzmarketvip",
-      "expiresAt": null,
-      "permanent": true,
-      "previousName": "wm-7x7rdn"
     },
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3183,6 +3171,18 @@
       "name": "akza_27",
       "expiresAt": "2026-12-22T06:36:31.011Z",
       "permanent": false
+    },
+    "yatzzofficial": {
+      "owner": "7962624217",
+      "balance": 3,
+      "totalPurchased": 553,
+      "totalUsed": 550,
+      "createdAt": "2026-10-07T15:21:58.856Z",
+      "updatedAt": "2026-10-24T06:28:20.080Z",
+      "name": "yatzzofficial",
+      "expiresAt": null,
+      "permanent": true,
+      "previousName": "yatzmarketvip"
     }
   },
   "free": {
