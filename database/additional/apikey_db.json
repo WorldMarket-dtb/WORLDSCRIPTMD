@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-25T04:19:09.017Z",
+  "updatedAt": "2026-10-25T04:19:35.289Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -2964,7 +2964,7 @@
       "totalPurchased": 4890,
       "totalUsed": 485,
       "createdAt": "2026-10-04T14:49:46.843Z",
-      "updatedAt": "2026-10-25T04:19:09.017Z",
+      "updatedAt": "2026-10-25T04:19:35.289Z",
       "name": "worldbwabwa1world",
       "expiresAt": null,
       "previousName": "worldmultidevice1",
@@ -3362,7 +3362,7 @@
     },
     "6282177613298": {
       "date": "2026-10-25",
-      "used": 6
+      "used": 7
     },
     "6285727462791": {
       "date": "2026-10-25",
