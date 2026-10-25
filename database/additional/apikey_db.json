@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-25T08:36:46.964Z",
+  "updatedAt": "2026-10-25T08:37:58.543Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3190,7 +3190,7 @@
       "totalPurchased": 1000,
       "totalUsed": 0,
       "createdAt": "2026-10-24T07:10:02.648Z",
-      "updatedAt": "2026-10-25T08:36:46.964Z",
+      "updatedAt": "2026-10-25T08:37:58.543Z",
       "name": "valocca",
       "expiresAt": "2026-12-23T07:22:59.766Z",
       "permanent": false
@@ -3450,7 +3450,7 @@
     },
     "6283842795548": {
       "date": "2026-10-25",
-      "used": 1
+      "used": 2
     }
   },
   "migrations": {
