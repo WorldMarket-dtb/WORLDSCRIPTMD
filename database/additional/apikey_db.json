@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-25T15:15:55.317Z",
+  "updatedAt": "2026-10-25T15:17:22.993Z",
   "tokens": {
     "worldbwabwa1world": {
       "owner": "1869797810",
@@ -3208,11 +3208,11 @@
     },
     "security_tonz": {
       "owner": "8070936855",
-      "balance": 905,
+      "balance": 885,
       "totalPurchased": 1000,
-      "totalUsed": 95,
+      "totalUsed": 115,
       "createdAt": "2026-10-25T11:49:09.510Z",
-      "updatedAt": "2026-10-25T15:15:55.317Z",
+      "updatedAt": "2026-10-25T15:17:22.993Z",
       "name": "security_tonz",
       "expiresAt": "2026-12-24T11:52:40.231Z",
       "permanent": false
