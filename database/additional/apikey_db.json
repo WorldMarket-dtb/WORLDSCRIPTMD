@@ -2956,22 +2956,8 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-28T12:02:10.684Z",
+  "updatedAt": "2026-10-28T12:06:43.677Z",
   "tokens": {
-    "worldbwabwa1world": {
-      "owner": "1869797810",
-      "balance": 3910,
-      "totalPurchased": 4890,
-      "totalUsed": 980,
-      "createdAt": "2026-10-04T14:49:46.843Z",
-      "updatedAt": "2026-10-28T11:50:45.074Z",
-      "name": "worldbwabwa1world",
-      "expiresAt": null,
-      "previousName": "worldmultidevice1",
-      "permanent": true,
-      "permanentSince": "2026-10-04T15:51:03.316Z",
-      "previousExpiresAt": "2026-11-03T09:54:22.250Z"
-    },
     "novamultidevice01": {
       "owner": "7333580176",
       "balance": 1000,
@@ -3227,6 +3213,20 @@
       "name": "putz",
       "expiresAt": null,
       "permanent": false
+    },
+    "worldkerenanjaywokwok": {
+      "owner": "1869797810",
+      "balance": 3910,
+      "totalPurchased": 4890,
+      "totalUsed": 980,
+      "createdAt": "2026-10-04T14:49:46.843Z",
+      "updatedAt": "2026-10-28T12:06:43.677Z",
+      "name": "worldkerenanjaywokwok",
+      "expiresAt": null,
+      "previousName": "worldbwabwa1world",
+      "permanent": true,
+      "permanentSince": "2026-10-04T15:51:03.316Z",
+      "previousExpiresAt": "2026-11-03T09:54:22.250Z"
     }
   },
   "free": {
