@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-29T07:43:41.998Z",
+  "updatedAt": "2026-10-29T07:51:36.719Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3093,11 +3093,11 @@
     },
     "fall": {
       "owner": "8635758868",
-      "balance": 2500,
+      "balance": 2495,
       "totalPurchased": 3000,
-      "totalUsed": 500,
+      "totalUsed": 505,
       "createdAt": "2026-10-18T10:49:11.395Z",
-      "updatedAt": "2026-10-29T07:36:56.653Z",
+      "updatedAt": "2026-10-29T07:51:36.719Z",
       "name": "fall",
       "expiresAt": "2026-12-18T06:45:43.178Z",
       "permanent": false
