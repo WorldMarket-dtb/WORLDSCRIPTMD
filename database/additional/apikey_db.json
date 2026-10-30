@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-30T02:33:24.106Z",
+  "updatedAt": "2026-10-30T03:16:10.333Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3153,7 +3153,7 @@
       "totalPurchased": 110000,
       "totalUsed": 0,
       "createdAt": "2026-10-22T21:44:03.405Z",
-      "updatedAt": "2026-10-25T04:18:12.212Z",
+      "updatedAt": "2026-10-30T03:16:10.333Z",
       "name": "akza_27",
       "expiresAt": "2026-12-22T06:36:31.011Z",
       "permanent": false
@@ -3505,6 +3505,10 @@
     "6289529269672": {
       "date": "2026-10-29",
       "used": 24
+    },
+    "6283164440019": {
+      "date": "2026-10-30",
+      "used": 1
     }
   },
   "migrations": {
