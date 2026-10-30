@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-30T12:07:59.338Z",
+  "updatedAt": "2026-10-30T12:08:42.086Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3119,7 +3119,7 @@
       "totalPurchased": 2000,
       "totalUsed": 420,
       "createdAt": "2026-10-18T14:20:53.924Z",
-      "updatedAt": "2026-10-30T12:07:02.342Z",
+      "updatedAt": "2026-10-30T12:08:42.086Z",
       "name": "tokenbowok",
       "expiresAt": "2026-12-17T14:28:02.841Z",
       "permanent": false,
@@ -3356,7 +3356,7 @@
     },
     "628892103096": {
       "date": "2026-10-30",
-      "used": 2
+      "used": 3
     },
     "51929364845": {
       "date": "2026-10-17",
