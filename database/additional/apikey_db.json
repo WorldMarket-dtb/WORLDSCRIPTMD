@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-30T13:01:19.225Z",
+  "updatedAt": "2026-10-30T13:49:40.046Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3031,7 +3031,7 @@
       "totalPurchased": 1000,
       "totalUsed": 70,
       "createdAt": "2026-10-09T12:35:45.706Z",
-      "updatedAt": "2026-10-30T01:11:20.587Z",
+      "updatedAt": "2026-10-30T13:49:40.046Z",
       "name": "zuann_xd",
       "expiresAt": "2026-12-08T12:36:33.571Z",
       "permanent": false
@@ -3296,7 +3296,7 @@
     },
     "6288324636442": {
       "date": "2026-10-30",
-      "used": 1
+      "used": 2
     },
     "6285257604790": {
       "date": "2026-10-20",
