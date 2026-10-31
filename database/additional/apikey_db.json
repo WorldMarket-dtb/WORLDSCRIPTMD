@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-10-31T07:33:31.921Z",
+  "updatedAt": "2026-10-31T08:07:54.941Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3227,6 +3227,17 @@
       "permanent": true,
       "permanentSince": "2026-10-04T15:51:03.316Z",
       "previousExpiresAt": "2026-11-03T09:54:22.250Z"
+    },
+    "instinkcolday": {
+      "owner": "7612743209",
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "createdAt": "2026-10-31T08:07:54.941Z",
+      "updatedAt": "2026-10-31T08:07:54.941Z",
+      "name": "instinkcolday",
+      "expiresAt": null,
+      "permanent": false
     }
   },
   "free": {
