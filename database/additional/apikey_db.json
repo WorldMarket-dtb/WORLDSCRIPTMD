@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-11-02T11:31:26.446Z",
+  "updatedAt": "2026-11-02T12:22:56.926Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -2971,11 +2971,11 @@
     },
     "dezganteng_04": {
       "owner": "7706623671",
-      "balance": 985,
+      "balance": 975,
       "totalPurchased": 1000,
-      "totalUsed": 15,
+      "totalUsed": 25,
       "createdAt": "2026-10-08T14:18:57.340Z",
-      "updatedAt": "2026-11-02T11:31:26.446Z",
+      "updatedAt": "2026-11-02T12:22:56.926Z",
       "name": "dezganteng_04",
       "expiresAt": "2026-12-07T14:21:12.210Z",
       "permanent": false
