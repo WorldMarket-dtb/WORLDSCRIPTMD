@@ -2956,7 +2956,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-11-03T11:26:12.176Z",
+  "updatedAt": "2026-11-03T11:39:36.318Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3236,6 +3236,17 @@
       "createdAt": "2026-10-31T08:07:54.941Z",
       "updatedAt": "2026-10-31T08:07:54.941Z",
       "name": "instinkcolday",
+      "expiresAt": null,
+      "permanent": false
+    },
+    "raciel090": {
+      "owner": "8589998430",
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "createdAt": "2026-11-03T11:39:36.318Z",
+      "updatedAt": "2026-11-03T11:39:36.318Z",
+      "name": "raciel090",
       "expiresAt": null,
       "permanent": false
     }
