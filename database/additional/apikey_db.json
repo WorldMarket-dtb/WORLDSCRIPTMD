@@ -2965,7 +2965,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-11-06T18:33:00.598Z",
+  "updatedAt": "2026-11-06T18:37:59.762Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3095,7 +3095,7 @@
       "totalPurchased": 11000,
       "totalUsed": 1075,
       "createdAt": "2026-10-18T02:20:23.987Z",
-      "updatedAt": "2026-11-06T15:42:29.624Z",
+      "updatedAt": "2026-11-06T18:37:59.762Z",
       "name": "kyanzzoffc",
       "expiresAt": "2026-12-23T14:07:44.638Z",
       "permanent": false
@@ -3294,8 +3294,8 @@
       "used": 1
     },
     "6285189084721": {
-      "date": "2026-11-06",
-      "used": 5
+      "date": "2026-11-07",
+      "used": 1
     },
     "6281993770544": {
       "date": "2026-10-09",
