@@ -2965,7 +2965,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-11-07T09:34:11.421Z",
+  "updatedAt": "2026-11-07T09:36:29.757Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3069,11 +3069,11 @@
     },
     "phyrine_botz": {
       "owner": "6527610418",
-      "balance": 765,
+      "balance": 760,
       "totalPurchased": 2000,
-      "totalUsed": 1235,
+      "totalUsed": 1240,
       "createdAt": "2026-10-15T06:53:31.360Z",
-      "updatedAt": "2026-11-07T09:34:11.421Z",
+      "updatedAt": "2026-11-07T09:36:29.757Z",
       "name": "phyrine_botz",
       "expiresAt": "2026-12-18T08:09:40.119Z",
       "permanent": false
