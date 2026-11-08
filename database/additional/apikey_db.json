@@ -2965,7 +2965,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-11-08T16:00:40.088Z",
+  "updatedAt": "2026-11-08T16:39:01.639Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3091,11 +3091,11 @@
     },
     "kyanzzoffc": {
       "owner": "7742261175",
-      "balance": 9855,
+      "balance": 9850,
       "totalPurchased": 11000,
-      "totalUsed": 1145,
+      "totalUsed": 1150,
       "createdAt": "2026-10-18T02:20:23.987Z",
-      "updatedAt": "2026-11-08T16:00:40.088Z",
+      "updatedAt": "2026-11-08T16:39:01.639Z",
       "name": "kyanzzoffc",
       "expiresAt": "2026-12-23T14:07:44.638Z",
       "permanent": false
