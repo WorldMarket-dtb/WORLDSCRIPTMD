@@ -2965,7 +2965,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-11-08T04:50:40.056Z",
+  "updatedAt": "2026-11-08T04:54:03.060Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3147,11 +3147,11 @@
     },
     "apikey_bot_gloo": {
       "owner": "8742371385",
-      "balance": 9265,
+      "balance": 9255,
       "totalPurchased": 10000,
-      "totalUsed": 735,
+      "totalUsed": 745,
       "createdAt": "2026-10-21T12:29:42.497Z",
-      "updatedAt": "2026-11-08T04:50:40.056Z",
+      "updatedAt": "2026-11-08T04:54:03.060Z",
       "name": "apikey_bot_gloo",
       "expiresAt": "2026-12-20T13:09:13.712Z",
       "permanent": false
