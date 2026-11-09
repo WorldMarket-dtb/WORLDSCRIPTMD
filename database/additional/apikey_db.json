@@ -2960,12 +2960,12 @@
       "totalUsed": 0,
       "expiresAt": null,
       "freeDate": "2026-11-09",
-      "freeUsed": 1,
-      "updatedAt": "2026-11-09T04:32:10.022Z"
+      "freeUsed": 2,
+      "updatedAt": "2026-11-09T04:40:53.698Z"
     }
   },
   "version": 2,
-  "updatedAt": "2026-11-09T04:32:10.022Z",
+  "updatedAt": "2026-11-09T04:40:53.698Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
