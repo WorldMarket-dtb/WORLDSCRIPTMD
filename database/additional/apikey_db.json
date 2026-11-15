@@ -2961,11 +2961,12 @@
       "expiresAt": null,
       "freeDate": "2026-11-09",
       "freeUsed": 3,
-      "updatedAt": "2026-11-09T06:23:10.757Z"
+      "updatedAt": "2026-11-09T06:23:10.757Z",
+      "permanent": false
     }
   },
   "version": 2,
-  "updatedAt": "2026-11-15T14:07:36.914Z",
+  "updatedAt": "2026-11-15T14:07:47.076Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3256,6 +3257,17 @@
       "createdAt": "2026-11-03T11:39:36.318Z",
       "updatedAt": "2026-11-03T11:39:36.318Z",
       "name": "raciel090",
+      "expiresAt": null,
+      "permanent": false
+    },
+    "xentra": {
+      "owner": "6916610815",
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "createdAt": "2026-11-15T14:07:47.076Z",
+      "updatedAt": "2026-11-15T14:07:47.076Z",
+      "name": "xentra",
       "expiresAt": null,
       "permanent": false
     }
