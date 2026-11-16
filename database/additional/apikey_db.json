@@ -2966,7 +2966,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-11-16T15:13:39.412Z",
+  "updatedAt": "2026-11-16T19:03:33.316Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3268,6 +3268,17 @@
       "createdAt": "2026-11-15T14:07:47.076Z",
       "updatedAt": "2026-11-15T14:07:47.076Z",
       "name": "xentra",
+      "expiresAt": null,
+      "permanent": false
+    },
+    "dapzz3321": {
+      "owner": "7857410703",
+      "balance": 0,
+      "totalPurchased": 0,
+      "totalUsed": 0,
+      "createdAt": "2026-11-16T19:03:33.316Z",
+      "updatedAt": "2026-11-16T19:03:33.316Z",
+      "name": "dapzz3321",
       "expiresAt": null,
       "permanent": false
     }
