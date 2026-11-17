@@ -2966,7 +2966,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-11-17T11:05:59.887Z",
+  "updatedAt": "2026-11-17T11:06:52.122Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3284,13 +3284,13 @@
     },
     "angghxzx": {
       "owner": "6292218373",
-      "balance": 0,
-      "totalPurchased": 0,
+      "balance": 1000,
+      "totalPurchased": 1000,
       "totalUsed": 0,
       "createdAt": "2026-11-17T11:05:59.887Z",
-      "updatedAt": "2026-11-17T11:05:59.887Z",
+      "updatedAt": "2026-11-17T11:06:52.122Z",
       "name": "angghxzx",
-      "expiresAt": null,
+      "expiresAt": "2027-01-16T11:06:52.122Z",
       "permanent": false
     }
   },
