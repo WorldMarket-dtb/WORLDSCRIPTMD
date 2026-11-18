@@ -2966,7 +2966,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-11-18T14:47:52.702Z",
+  "updatedAt": "2026-11-18T14:48:03.563Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -2985,7 +2985,7 @@
       "totalPurchased": 1000,
       "totalUsed": 120,
       "createdAt": "2026-10-08T14:18:57.340Z",
-      "updatedAt": "2026-11-18T14:41:49.185Z",
+      "updatedAt": "2026-11-18T14:48:03.563Z",
       "name": "dezganteng_04",
       "expiresAt": "2026-12-07T14:21:12.210Z",
       "permanent": false
@@ -3640,7 +3640,7 @@
     },
     "6283849749766": {
       "date": "2026-11-18",
-      "used": 3
+      "used": 4
     },
     "62883895249446": {
       "date": "2026-11-18",
