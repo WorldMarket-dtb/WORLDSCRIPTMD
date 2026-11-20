@@ -2966,7 +2966,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-11-20T12:23:35.593Z",
+  "updatedAt": "2026-11-20T12:23:41.552Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3310,7 +3310,7 @@
       "totalPurchased": 0,
       "totalUsed": 0,
       "createdAt": "2026-11-19T11:56:06.903Z",
-      "updatedAt": "2026-11-20T12:23:35.593Z",
+      "updatedAt": "2026-11-20T12:23:41.552Z",
       "name": "ahmadbagas_01",
       "expiresAt": null,
       "permanent": false
@@ -3659,7 +3659,7 @@
     },
     "6285135700564": {
       "date": "2026-11-20",
-      "used": 1
+      "used": 2
     },
     "62883846677963": {
       "date": "2026-11-20",
