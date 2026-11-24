@@ -2966,7 +2966,7 @@
     }
   },
   "version": 2,
-  "updatedAt": "2026-11-24T12:12:24.186Z",
+  "updatedAt": "2026-11-24T12:23:26.141Z",
   "tokens": {
     "novamultidevice01": {
       "owner": "7333580176",
@@ -3226,11 +3226,11 @@
     },
     "worldkerenanjaywokwok": {
       "owner": "1869797810",
-      "balance": 9995305,
+      "balance": 9995300,
       "totalPurchased": 10004890,
-      "totalUsed": 9585,
+      "totalUsed": 9590,
       "createdAt": "2026-10-04T14:49:46.843Z",
-      "updatedAt": "2026-11-24T12:12:24.186Z",
+      "updatedAt": "2026-11-24T12:23:26.141Z",
       "name": "worldkerenanjaywokwok",
       "expiresAt": null,
       "previousName": "worldbwabwa1world",
